@@ -1,5 +1,8 @@
 # Server-Side APIs Challenge: Weather Dashboard
 
+<img width="1439" alt="sc-web-app" src="https://user-images.githubusercontent.com/115510413/212810761-0419b4da-ba91-4d1e-9167-d2c96b00585d.png">
+
+
 ## User Story
 
 ```md
